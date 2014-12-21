@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NotificationDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="private_notification">Push Private Notification</string>
+    <string name="public_notification">Push Public Notification</string>
+    <string name="secret_notification">Push Secret Notification</string>
+    <string name="heads_up_notification">Show Heads Up Notification</string>
+    <string name="view_details">View details...</string>
+    <string name="private_title">Keep this quiet</string>
+    <string name="private_text">This is a private message</string>
+    <string name="public_title">Here ye - public message</string>
+    <string name="public_text">This is a public message</string>
+    <string name="secret_title">Shhh... - it\'s secret</string>
+    <string name="secret_text">This is a secret message</string>
+    <string name="heads_up_title">Cubs are playing now!</string>
+    <string name="heads_up_text">The Chicago Cubs are playing on WGN!</string>
+
+</resources>
